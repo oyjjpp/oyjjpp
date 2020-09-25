@@ -4,13 +4,23 @@
 **oyjjpp/oyjjpp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
--->
+- 🎓 Peking university
+- 🏠 [studygolang.com](https://studygolang.com) 站长.
+- 📖 [《Go语言编程之旅：一起用Go做项目》](https://u.jd.com/RMSbOS)合著者.
+- 📦 GCTT、golangweekly 等仓库发起人.
+- 公众号：polarisxu，下方扫码关注
 
-
-- 🔭 I’m currently working on 掌阅科技股份有限公司
-- 🌱 I’m currently learning golang
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ouyangjuncust@aliyun.com
+- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
 
+- 🎓 Changchun University of Science and Technology.
+- 🌱 I’m currently learning golang.
+- 📫 How to reach me: ouyangjuncust@aliyun.com.
+- 🏠 [掘金主页](https://juejin.im/user/641770519800781).
